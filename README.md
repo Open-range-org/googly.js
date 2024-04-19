@@ -91,8 +91,15 @@ Additionally, it considers the total length of the password.
 
 Map the `for` attribute to the corresponding input field by setting its value to the same ID as the text input field.
 
+
 ```html
 <input type="password" placeholder="Enter Pass" id="pass" class="form-control" />
 <strength for="pass"></strength>
 ```
 
+
+## Links 
+
+Documentation link: https://open-range-org.github.io/GooglyJs/
+
+Demo link : https://open-range-org.github.io/GooglyJs/demo/
