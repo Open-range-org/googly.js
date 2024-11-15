@@ -100,6 +100,6 @@ Map the `for` attribute to the corresponding input field by setting its value to
 
 ## Links 
 
-Documentation link: https://open-range-org.github.io/GooglyJs/
+Documentation link: [https://open-range-org.github.io/GooglyJs/](https://open-range-org.github.io/#/googly-js)
 
-Demo link : https://open-range-org.github.io/GooglyJs/demo/
+Demo link : [https://open-range-org.github.io/GooglyJs/demo/](https://open-range-org.github.io/demo/GooglyJs/)
